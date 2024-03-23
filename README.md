@@ -6,8 +6,6 @@
 </p>
 <ul>
   <li>Linked In : https://www.linkedin.com/in/imam-zarkasi-88621b173/</li>
-  <li>Personal Site :</li>
-  <li>Facebook :</li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
