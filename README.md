@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Imam Zarkasi</h1>
-<h3 align="center">Build an Website Application for helping people. ❤️</h3>
+<h1 align="left">Hi 👋, I'm Imam Zarkasi</h1>
+<h3 align="left">Build an Website Application for helping people. ❤️</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Get in Touch</h3>
+</hr>
 <p align="left">
 </p>
 
