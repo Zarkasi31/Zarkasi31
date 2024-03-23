@@ -1,7 +1,7 @@
 <h4 align="left">Hi there 👋, I'm Imam Zarkasi</h4>
-<h3 align="left">Build an Website Application for helping people. ❤️</h3>
+<h5 align="left">Build an Website Application for helping people. ❤️</h5>
 
-<h3 align="left">Get in Touch</h3>
+<h4 align="left">Get in Touch</h4>
 <hr style="height:1px;">
 <p align="left">
 </p>
