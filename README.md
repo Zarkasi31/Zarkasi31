@@ -2,7 +2,7 @@
 <h3 align="left">Build an Website Application for helping people. ❤️</h3>
 
 <h3 align="left">Get in Touch</h3>
-</hr>
+<hr>
 <p align="left">
 </p>
 
